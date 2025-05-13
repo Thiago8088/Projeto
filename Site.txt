@@ -1,9 +1,5 @@
-HEADER
-
 Logomarca do site
 
-Menu Principal
+Menu Principal - NAVBAR e Menu Hamburguer
 
 Área de noticias
-
-FOOTER
