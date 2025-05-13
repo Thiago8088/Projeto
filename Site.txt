@@ -1,5 +1,9 @@
+HEADER
+
 Logomarca do site
 
 Menu Principal
 
 Área de noticias
+
+FOOTER
